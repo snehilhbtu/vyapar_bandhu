@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984863158943",
+    "project_id": "vyaparbandhu-a4285",
+    "storage_bucket": "vyaparbandhu-a4285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984863158943:android:5916af1af3fe42581b68aa",
+        "android_client_info": {
+          "package_name": "com.example.vyapar_bandhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984863158943-ik286ucvs3ppt4ecnc0dtpocvhdlvk67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vyapar_bandhu",
+            "certificate_hash": "847f6ea41e2d2a6ea616b63835ca268be8e52225"
+          }
+        },
+        {
+          "client_id": "984863158943-ohj8nqt7imc2ge1i8jsaqp3qg1lpggog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGTuFmi0vYlSrRfm_pjD59FtebHcse4ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984863158943-ohj8nqt7imc2ge1i8jsaqp3qg1lpggog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
